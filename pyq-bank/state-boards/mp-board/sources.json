@@ -1,0 +1,8 @@
+{
+  "board": "MPBSE Madhya Pradesh",
+  "official_domain": "https://mpbse.nic.in",
+  "latest_sample_paper": "https://mpbse.nic.in/ModelPaper.HTML",
+  "marking_scheme_or_answer_key": "https://mpbse.nic.in/MarksScheme_2026_27.pdf",
+  "pyq_sources": [],
+  "limitations": "Official MPBSE exposes model/sample papers and blueprints, not an annual five-year Class XII PYQ archive. The marking link is the current official marking-scheme PDF, not an annual answer key."
+}

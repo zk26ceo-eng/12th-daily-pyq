@@ -1,0 +1,59 @@
+{
+  "board": "MSBSHSE Maharashtra",
+  "official_domain": "https://www.mahahsscboard.in",
+  "latest_sample_paper": "https://www.mahahsscboard.in/en/questionPaper",
+  "marking_scheme_or_answer_key": "",
+  "pyq_sources": [
+    {
+      "year": "2024",
+      "subject": "English",
+      "url": "https://state-board-strapi-upload.blr1.digitaloceanspaces.com/j_101_3b974241d2.pdf"
+    },
+    {
+      "year": "2024",
+      "subject": "Mathematics & Statistics",
+      "url": "https://state-board-strapi-upload.blr1.digitaloceanspaces.com/j_174_0c38290d8a.pdf"
+    },
+    {
+      "year": "2024",
+      "subject": "Physics",
+      "url": "https://state-board-strapi-upload.blr1.digitaloceanspaces.com/j_129_2c5e3aec16.pdf"
+    },
+    {
+      "year": "2024",
+      "subject": "Chemistry",
+      "url": "https://state-board-strapi-upload.blr1.digitaloceanspaces.com/j_161_c995d8ef69.pdf"
+    },
+    {
+      "year": "2024",
+      "subject": "Biology",
+      "url": "https://state-board-strapi-upload.blr1.digitaloceanspaces.com/j_197_c62bfbf4f1.pdf"
+    },
+    {
+      "year": "2025",
+      "subject": "English",
+      "url": "https://state-board-strapi-upload.blr1.digitaloceanspaces.com/J_251_d163542f57.pdf"
+    },
+    {
+      "year": "2025",
+      "subject": "Mathematics & Statistics",
+      "url": "https://state-board-strapi-upload.blr1.digitaloceanspaces.com/J_312_7ea142d8f8.pdf"
+    },
+    {
+      "year": "2025",
+      "subject": "Physics",
+      "url": "https://state-board-strapi-upload.blr1.digitaloceanspaces.com/J_287_3a6bdb5161.pdf"
+    },
+    {
+      "year": "2025",
+      "subject": "Chemistry",
+      "url": "https://state-board-strapi-upload.blr1.digitaloceanspaces.com/J_302_2de44977f4.pdf"
+    },
+    {
+      "year": "2025",
+      "subject": "Biology",
+      "url": "https://state-board-strapi-upload.blr1.digitaloceanspaces.com/j_410_0488833f01.pdf"
+    }
+  ],
+  "limitations": "Official page exposes 2024–2026 administrations rather than a complete 2021–2025 set. The 2025 Biology link on the official page was mislinked and was not substituted."
+}

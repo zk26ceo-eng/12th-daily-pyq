@@ -1,0 +1,19 @@
+{
+  "board": "CGBSE Chhattisgarh",
+  "official_domain": "https://cgbse.nic.in",
+  "latest_sample_paper": "https://cgbse.nic.in/Documents/2025/parakh/12/020.pdf",
+  "marking_scheme_or_answer_key": "https://cgbse.nic.in/curriculam/2023/12/HR_020_Syllabus_2022_23.pdf",
+  "pyq_sources": [
+    {
+      "year": "2022",
+      "subject": "030",
+      "url": "https://cgbse.nic.in/QP_2019_23/2022/12th/T_222030_A.pdf"
+    },
+    {
+      "year": "2023",
+      "subject": "201",
+      "url": "https://cgbse.nic.in/QP_2019_23/2023/12th/C-232201-A.pdf"
+    }
+  ],
+  "limitations": "Official CGBSE pages exposed two verifiable Class XII PDFs but not a complete named five-subject 2021–2025 catalogue. The marking document is older (2019–20 label)."
+}

@@ -1,0 +1,34 @@
+{
+  "board": "BSEB Bihar",
+  "official_domain": "https://biharboardonline.com",
+  "latest_sample_paper": "https://biharboardonline.com/modelpaperinter.html",
+  "marking_scheme_or_answer_key": "",
+  "pyq_sources": [
+    {
+      "year": "2025",
+      "subject": "Hindi",
+      "url": "https://biharboardonline.com/files/106_206_306_Hindi.pdf"
+    },
+    {
+      "year": "2025",
+      "subject": "English",
+      "url": "https://biharboardonline.com/files/105_124_205_223-English.pdf"
+    },
+    {
+      "year": "2025",
+      "subject": "Physics",
+      "url": "https://biharboardonline.com/files/117_Physics.pdf"
+    },
+    {
+      "year": "2025",
+      "subject": "Chemistry",
+      "url": "https://biharboardonline.com/files/118_Chemistry.pdf"
+    },
+    {
+      "year": "2025",
+      "subject": "Mathematics",
+      "url": "https://biharboardonline.com/files/121_327_Mathematics.pdf"
+    }
+  ],
+  "limitations": "The official archive yielded a verifiable 2025 set. Earlier 2021–2024 annual URLs and a standalone official marking scheme were not located."
+}

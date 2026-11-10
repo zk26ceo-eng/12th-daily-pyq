@@ -1,0 +1,88 @@
+{
+  "stream": "commerce",
+  "subjects": [
+    {
+      "id": "accountancy",
+      "name": "Accountancy",
+      "streams": [
+        "commerce"
+      ],
+      "compulsory_for": [
+        "commerce"
+      ]
+    },
+    {
+      "id": "business-studies",
+      "name": "Business Studies",
+      "streams": [
+        "commerce"
+      ],
+      "compulsory_for": [
+        "commerce"
+      ]
+    },
+    {
+      "id": "economics",
+      "name": "Economics",
+      "streams": [
+        "commerce",
+        "humanities"
+      ],
+      "compulsory_for": [
+        "commerce"
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English Core",
+      "streams": [
+        "science-pcb",
+        "science-pcm",
+        "commerce",
+        "humanities"
+      ],
+      "compulsory_for": [
+        "science-pcb",
+        "science-pcm",
+        "commerce",
+        "humanities"
+      ]
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "streams": [
+        "science-pcm",
+        "commerce"
+      ]
+    },
+    {
+      "id": "informatics-practices",
+      "name": "Informatics Practices",
+      "streams": [
+        "science-pcb",
+        "science-pcm",
+        "commerce"
+      ]
+    },
+    {
+      "id": "entrepreneurship",
+      "name": "Entrepreneurship",
+      "streams": [
+        "commerce"
+      ]
+    },
+    {
+      "id": "physical-education",
+      "name": "Physical Education",
+      "streams": [
+        "science-pcb",
+        "science-pcm",
+        "commerce"
+      ]
+    }
+  ],
+  "rules": {
+    "english_compulsory": true
+  }
+}

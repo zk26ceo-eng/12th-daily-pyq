@@ -1,0 +1,14 @@
+{
+  "name": "12th-daily-pyq",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Stream-aware Class XII daily PYQ prompts and official state-board source catalogs",
+  "main": "backend/scheduler.js",
+  "scripts": {
+    "start": "node backend/scheduler.js",
+    "extract-state-papers": "python3 tools/extract_state_papers.py"
+  },
+  "dependencies": {
+    "node-cron": "^3.0.3"
+  }
+}

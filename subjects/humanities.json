@@ -1,0 +1,91 @@
+{
+  "stream": "humanities",
+  "subjects": [
+    {
+      "id": "english",
+      "name": "English Core",
+      "streams": [
+        "science-pcb",
+        "science-pcm",
+        "commerce",
+        "humanities"
+      ],
+      "compulsory_for": [
+        "science-pcb",
+        "science-pcm",
+        "commerce",
+        "humanities"
+      ]
+    },
+    {
+      "id": "hindi",
+      "name": "Hindi",
+      "streams": [
+        "humanities"
+      ]
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "streams": [
+        "humanities"
+      ]
+    },
+    {
+      "id": "geography",
+      "name": "Geography",
+      "streams": [
+        "humanities"
+      ]
+    },
+    {
+      "id": "political-science",
+      "name": "Political Science",
+      "streams": [
+        "humanities"
+      ]
+    },
+    {
+      "id": "economics",
+      "name": "Economics",
+      "streams": [
+        "commerce",
+        "humanities"
+      ],
+      "compulsory_for": [
+        "commerce"
+      ]
+    },
+    {
+      "id": "psychology",
+      "name": "Psychology",
+      "streams": [
+        "humanities"
+      ]
+    },
+    {
+      "id": "sociology",
+      "name": "Sociology",
+      "streams": [
+        "humanities"
+      ]
+    },
+    {
+      "id": "painting",
+      "name": "Painting / Fine Arts",
+      "streams": [
+        "humanities"
+      ]
+    },
+    {
+      "id": "music",
+      "name": "Music",
+      "streams": [
+        "humanities"
+      ]
+    }
+  ],
+  "rules": {
+    "english_compulsory": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Student",
+  "stream": "science-pcb",
+  "subjects": [
+    "physics",
+    "chemistry",
+    "biology",
+    "english",
+    "physical-education"
+  ],
+  "language": "English",
+  "board": "CBSE",
+  "dailyTime": "07:00",
+  "questionsPerSubject": 1,
+  "timezone": "Asia/Kolkata",
+  "consentToMessages": false
+}

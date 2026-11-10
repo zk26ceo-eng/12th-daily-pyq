@@ -1,0 +1,187 @@
+[
+  {
+    "id": "english",
+    "name": "English Core",
+    "streams": [
+      "science-pcb",
+      "science-pcm",
+      "commerce",
+      "humanities"
+    ],
+    "compulsory_for": [
+      "science-pcb",
+      "science-pcm",
+      "commerce",
+      "humanities"
+    ]
+  },
+  {
+    "id": "hindi",
+    "name": "Hindi",
+    "streams": [
+      "humanities"
+    ]
+  },
+  {
+    "id": "physics",
+    "name": "Physics",
+    "streams": [
+      "science-pcb",
+      "science-pcm"
+    ],
+    "compulsory_for": [
+      "science-pcb",
+      "science-pcm"
+    ]
+  },
+  {
+    "id": "chemistry",
+    "name": "Chemistry",
+    "streams": [
+      "science-pcb",
+      "science-pcm"
+    ],
+    "compulsory_for": [
+      "science-pcb",
+      "science-pcm"
+    ]
+  },
+  {
+    "id": "biology",
+    "name": "Biology",
+    "streams": [
+      "science-pcb"
+    ],
+    "compulsory_for": [
+      "science-pcb"
+    ]
+  },
+  {
+    "id": "mathematics",
+    "name": "Mathematics",
+    "streams": [
+      "science-pcm",
+      "commerce"
+    ]
+  },
+  {
+    "id": "computer-science",
+    "name": "Computer Science",
+    "streams": [
+      "science-pcb",
+      "science-pcm"
+    ]
+  },
+  {
+    "id": "informatics-practices",
+    "name": "Informatics Practices",
+    "streams": [
+      "science-pcb",
+      "science-pcm",
+      "commerce"
+    ]
+  },
+  {
+    "id": "physical-education",
+    "name": "Physical Education",
+    "streams": [
+      "science-pcb",
+      "science-pcm",
+      "commerce"
+    ]
+  },
+  {
+    "id": "accountancy",
+    "name": "Accountancy",
+    "streams": [
+      "commerce"
+    ],
+    "compulsory_for": [
+      "commerce"
+    ]
+  },
+  {
+    "id": "business-studies",
+    "name": "Business Studies",
+    "streams": [
+      "commerce"
+    ],
+    "compulsory_for": [
+      "commerce"
+    ]
+  },
+  {
+    "id": "economics",
+    "name": "Economics",
+    "streams": [
+      "commerce",
+      "humanities"
+    ],
+    "compulsory_for": [
+      "commerce"
+    ]
+  },
+  {
+    "id": "applied-mathematics",
+    "name": "Applied Mathematics",
+    "streams": [
+      "commerce"
+    ]
+  },
+  {
+    "id": "entrepreneurship",
+    "name": "Entrepreneurship",
+    "streams": [
+      "commerce"
+    ]
+  },
+  {
+    "id": "history",
+    "name": "History",
+    "streams": [
+      "humanities"
+    ]
+  },
+  {
+    "id": "geography",
+    "name": "Geography",
+    "streams": [
+      "humanities"
+    ]
+  },
+  {
+    "id": "political-science",
+    "name": "Political Science",
+    "streams": [
+      "humanities"
+    ]
+  },
+  {
+    "id": "psychology",
+    "name": "Psychology",
+    "streams": [
+      "humanities"
+    ]
+  },
+  {
+    "id": "sociology",
+    "name": "Sociology",
+    "streams": [
+      "humanities"
+    ]
+  },
+  {
+    "id": "painting",
+    "name": "Painting / Fine Arts",
+    "streams": [
+      "humanities"
+    ]
+  },
+  {
+    "id": "music",
+    "name": "Music",
+    "streams": [
+      "humanities"
+    ]
+  }
+]

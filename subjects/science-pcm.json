@@ -1,0 +1,73 @@
+{
+  "stream": "science-pcm",
+  "subjects": [
+    {
+      "id": "physics",
+      "name": "Physics",
+      "streams": [
+        "science-pcb",
+        "science-pcm"
+      ],
+      "compulsory_for": [
+        "science-pcb",
+        "science-pcm"
+      ]
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "streams": [
+        "science-pcb",
+        "science-pcm"
+      ],
+      "compulsory_for": [
+        "science-pcb",
+        "science-pcm"
+      ]
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "streams": [
+        "science-pcm",
+        "commerce"
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English Core",
+      "streams": [
+        "science-pcb",
+        "science-pcm",
+        "commerce",
+        "humanities"
+      ],
+      "compulsory_for": [
+        "science-pcb",
+        "science-pcm",
+        "commerce",
+        "humanities"
+      ]
+    },
+    {
+      "id": "physical-education",
+      "name": "Physical Education",
+      "streams": [
+        "science-pcb",
+        "science-pcm",
+        "commerce"
+      ]
+    },
+    {
+      "id": "computer-science",
+      "name": "Computer Science",
+      "streams": [
+        "science-pcb",
+        "science-pcm"
+      ]
+    }
+  ],
+  "rules": {
+    "english_compulsory": true
+  }
+}
