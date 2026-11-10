@@ -1,6 +1,6 @@
 # 12th Daily PYQ
 
-A stream-aware Class XII daily-question system for CBSE and a transparent starter library for five Indian state boards. It is designed for students, study groups, and integration into a friend’s web app such as **The Network**.
+A stream-aware Class XII daily-question system for CBSE and a transparent starter library for five Indian state boards. It is designed for students, study groups, and integration into a friend’s web app 
 
 ## Current status
 
